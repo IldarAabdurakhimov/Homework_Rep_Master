@@ -1,7 +1,7 @@
 # Homework_Rep_Master
 **This is a project for teacher Z.Andrey**
 --------------------------
-*This massage from VS Deskop Version!*
+*The Massage from VS Deskop Version for test!*
 
 ## Списки 
 --------------------------
