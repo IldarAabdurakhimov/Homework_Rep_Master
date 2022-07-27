@@ -1,5 +1,5 @@
 # Homework_Rep_Master
-**his is a project for teacher Z.Andrey**
+**Thhis is a project for teacher Z.Andrey**
 *This massage from VS Deskop Version!*
 
 Нумерация списка 
