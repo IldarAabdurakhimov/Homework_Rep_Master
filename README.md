@@ -14,8 +14,9 @@
 * Запись 1
 * Запись 2
 * Запись 3 
+* Добавлена новая запись 
 ------------------------------
  ## Работа с изображениями .
 1. ***Добавление изображения*. 
             
-![hola-a-todos_becc35da_2000x1649](https://user-images.githubusercontent.com/109942162/181155578-1af2bf0e-b37c-425c-b923-1c515e94ef04.jpg)
+![1528910655_zevok-lvicy](https://user-images.githubusercontent.com/109942162/181165617-72f4d06a-461f-4a75-a2bc-095decb48ea1.jpg)
