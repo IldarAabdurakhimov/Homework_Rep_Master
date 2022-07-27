@@ -1,6 +1,6 @@
 # Homework_Rep_Master
 **Thhis is a project for teacher Z.Andrey**
-*This massage from VS Deskop Version!*
+#*This massage from VS Deskop Version!*
 
 ## Списки 
 --------------------------
@@ -15,6 +15,6 @@
 * Запись 3 
 ------------------------------
  ## Работа с изображениями .
-1. ***Добавление изображения*. 
+1. ***Добавление изображения.*** 
             
 ![hola-a-todos_becc35da_2000x1649](https://user-images.githubusercontent.com/109942162/181155578-1af2bf0e-b37c-425c-b923-1c515e94ef04.jpg)
