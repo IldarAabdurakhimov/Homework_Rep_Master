@@ -12,3 +12,5 @@
 * Запись 2
 * Запись 3 
 
+Добавление изображения. 
+![hola-a-todos_becc35da_2000x1649](https://user-images.githubusercontent.com/109942162/181155578-1af2bf0e-b37c-425c-b923-1c515e94ef04.jpg)
